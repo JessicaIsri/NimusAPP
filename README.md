@@ -1,6 +1,8 @@
 # Nimus: Aplicativo para facilitação do agendamento de consultas
 
 **1. Introdução**
+
+
 Um plano de saúde é um seguro de proteção de pessoas contra o risco de terem de vir a arcar com despesas medidcas. 
 Planos de saúde suplementar surgiram no Brasil ha pouco mais de 60 anos e atualmente servem a cerca de 47,3 milhoes de pessoas (22,7% da população brasileira), segundo dados da Agência Nacional de Saúde Suplementar(ANS). 
 Atualmente em todo o país existem cerca de 754 operadoras em funcionamento, oferecendo tipos diversos de planos(familiares, individuais e empresariais), com as principais modalidades sendo: Autogestão cooperativa médica, filantropia, medicina de grupo e seguradora de saúde. 
