@@ -1,17 +1,7 @@
-# NimusAPP
-
-PROBLEMATICA:
-Dificuldade de agendamento de consultas médicas para usuarios de convenios.
-
-MOTIVAÇÃO:
-
-Com o crescente aumento do uso de aplicações que criam atalhos para utilização de serviços, sejam eles de delivery de comida, mercadorias, compras em geral, etc, começa se criar o fenômeno de abandono de costumes e tecnologias com maior nivel de obsolescência. Tais tecnologias como o uso de ligações e/ou agendamentos presenciais.
-
-Um setor que ainda possue uso de tais métodos para agendamento, é o setor de saúde focado na presença de convenios, onde possuimos em sua grande maioria aplicativos fornecidos por empresas provedoras de plano de saúde, entretanto os mesmos não possuem uma forma facilitada de agendamento, fazendo com que os usuário tenha que consultar e confiar no contato fornecido pela aplicação e então é feito o contato através do telefone com o consultório/profissional em questão.
-
-Tendo isso em mente podemos afirmar que a existencia de uma aplicação que pudesse centraliza e facilitar o agendamento através de uma plataforma que possa se integrar entre o paciente e o consultorio de uma maneira tão simples quanto pedir comida em um aplicatido de delivery
-
-
-PROPOSTA DE SOLUÇÃO:
-Criar um aplicativo que possa servir de ponto focal entre pacientes e médicos/clinicas, se integrando com possivéis sistemas previamente utilizados. Dessa forma se tornando-se uma plataforma centralizada e simplificada de agendamentos, desse modo eliminando quase que por completo a necessidade de se comunicar aravés de ligações telefonicas. 
-
+Nimus: Aplicativo para facilitação do agendamento de consultas
+1. Introdução
+Um plano de saúde é um seguro de proteção de pessoas contra o risco de terem de vir a arcar com despesas medidcas.
+Planos de saúde suplementar surgiram no Brasil ha pouco mais de 60 anos e atualmente servem a cerca de 47,3 milhoes de pessoas (22,7% da população brasileira), segundo dados da Agência Nacional de Saúde Suplementar(ANS).
+Atualmente em todo o país existem cerca de 754 operadoras em funcionamento, oferecendo tipos diversos de planos(familiares, individuais e empresariais), com as principais modalidades sendo: Autogestão cooperativa médica, filantropia, medicina de grupo e seguradora de saúde.
+Contudo mais de 1,2 bilhão de consultas, exames e internações por ano.
+Com o intuito de auxiliar os usuarios de planos de saúde suplementar a as clinicas e profissionais que servem aos planos supracitados a realizarem o agendamento e gerenciamento de consultas, alguns softwares foram desenvolvidos, tais como o MediLab, que visa a facilitação e encurtamento da burocracia envolvida no momento de se marcar uma consulta médica.
