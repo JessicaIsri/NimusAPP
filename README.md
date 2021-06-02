@@ -96,4 +96,27 @@ O ambiente flexível é ideal para aplicativos com as seguintes características
 ##
 ### **4. Interface do protótipo**
 ##
+### **4.1 Protótipo funcional**
+Essa seção destina se a demonstração de uma visão inicial do layout da aplicação em sua versão mobile. É possivel acessar o prototipo funcional a partir do link:
+https://www.figma.com/proto/yXqbY2dx9npPW6SVrBLnXq/Nimus?page-id=1:2&node-id=203:98&viewport=404,475,0.2098381668329239&scaling=scale-down
+### **4.2 Cadastro**
+![Nimus-Cadastro](https://user-images.githubusercontent.com/65822756/120557285-118f0200-c3d4-11eb-8e18-63a5af8674bb.png)
+### **4.3 Login**
+![Nimus-Login](https://user-images.githubusercontent.com/65822756/120557357-28cdef80-c3d4-11eb-9993-4394e8d8ad76.png)
+### **4.4 Área do Cliente**
+![Nimus-╡rea-do-Cliente](https://user-images.githubusercontent.com/65822756/120557476-5f0b6f00-c3d4-11eb-9eab-60781f5af6af.png)
+
+### **4.5 Buscar Profissional**
+![Nimus-Visualizar-Médicos](https://user-images.githubusercontent.com/65822756/120557592-8bbf8680-c3d4-11eb-98a8-1605b43ebdfa.png)
+![Nimus-Visualizar-Médicos-1](https://user-images.githubusercontent.com/65822756/120557670-a7c32800-c3d4-11eb-9b87-585b58337221.png)
+
+
+### **4.6 Agendamento de Consulta**
+![Nimus-Marcar-Consulta](https://user-images.githubusercontent.com/65822756/120557423-44d19100-c3d4-11eb-8ee9-e55f38ae1c51.png)
+![Nimus-Overlay-Marcada](https://user-images.githubusercontent.com/65822756/120557635-9bd76600-c3d4-11eb-92ec-bc59052a38f3.png)
+
+### **4.7 Configurações**
+![Nimus-ConfiguraçΣes](https://user-images.githubusercontent.com/65822756/120557972-1dc78f00-c3d5-11eb-9980-1d5ce42c6ea1.png)
+
+##
 ### **5. Conclusão**
