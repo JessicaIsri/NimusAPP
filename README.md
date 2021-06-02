@@ -86,6 +86,13 @@ O ambiente flexível é ideal para aplicativos com as seguintes características
 
 ##
 ### **3. Metodologia e Métodos**
+### **3.1 Login do Paciente**
+![image](https://user-images.githubusercontent.com/65822756/120411696-9a9e2e80-c32b-11eb-90c1-07aba14953c0.png)
+### **3.2 Pré Agendamento de uma consulta**
+![image](https://user-images.githubusercontent.com/65822756/120412966-dd610600-c32d-11eb-90a4-b1bda26baadd.png)
+### **3.3 Confirmação do agendamento**
+![Diagrama em branco - Página 3](https://user-images.githubusercontent.com/65822756/120414741-d38cd200-c330-11eb-9834-bd66b3546ef5.png)
+
 ##
 ### **4. Interface do protótipo**
 ##
