@@ -47,6 +47,9 @@ Geralmente os desenvolvedores integram com o Flutter por meio da estrutura Flutt
 O CloudSql é um serviço de banco de dados relacional totalmente gerenciado com suporte ao MySQL, PostgreSQL e SQL Server, tendo como vantagens a redução de custo de manutenção com banco de dados relacionais gerenciados na nuvem, confiabilidade, observabilidade do database, integração facilitada com os serviços do Google Cloud. [Google Cloud:](https://cloud.google.com/sql).
 
 ### **2.4. App Engine**
+De acordo com Rick Kazman, Philip Bianco, James Ivers e John Klein quando pensamos em arquitetura e natual pensarmos em equipamentos físicos e palpaveis quando pensamos em um ambiente de execução de software, porém assim como um carro o hardware se desgasta gerando maiores gastos com manutenção, diferente de um software que não sofre desgaste e/ou alterações.[Kazman, Rick; Bianco, Philip; Ivers, James; & Klein, John. Maintainability. CMU/SEI-2020-TR-006. Software Engineering Institute, Carnegie Mellon University. 2020. http://resources.sei.cmu.edu/library/asset-view.cfm?AssetID=650480]
+
+
  O App Engine é um serviço que tem como principal objetivo permitir a publicação de aplicativos com o minimo de configuração possível [TreinaWeb:](https://www.treinaweb.com.br/blog/o-que-e-o-app-engine-e-como-publicar-uma-aplicacao-nele), sendo assim se categorizando como um serviço do nivel **PaaS**(Plataforma como serviço). Dessa maneira sendo responsavél por:
  
  - Manter o ambiente onde a aplicação será executada;
