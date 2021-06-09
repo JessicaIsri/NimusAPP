@@ -123,3 +123,5 @@ https://www.figma.com/proto/yXqbY2dx9npPW6SVrBLnXq/Nimus?page-id=1:2&node-id=203
 
 ##
 ### **5. Conclusão**
+Logo, após o desenvolvimento do software é esperado uma maior facilidade para realizar contato com clinicas e profissionais da area da saúde, economizando tempo e custo em chamadas, além de abrir espaço para novas implementações, como por exemplo o aviso da proximidade de uma consulta agendada, remarcar consultas, e realização de consultas online caso seja possivel.
+O uso de uma arquitetura em cloud também irá trazer a escalabilidade necessaria para atender tanto a profisisonais quanto pacientes e a facilitação da implementação e manutenção de servidores e ambientes necessarios para o funcionamento da aplicação.
